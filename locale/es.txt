@@ -39,6 +39,10 @@ panorama_2CE1C422_3EC4_0419_41B0_89F0AA98EF3F.label = Torre3
 
 ## Skin
 
+### Etiqueta
+Label_71EA8CF1_4523_CBCF_41CF_287E0518B9A1.text = Selecciona un monumento
+Label_7298FC9A_4527_4A7D_41BD_A93F9012045C.text = Selecciona un monumento
+
 ### Imágen
 Image_27419F87_29D5_3D1A_4180_7C7A3E9F8385.url = skin/Image_27419F87_29D5_3D1A_4180_7C7A3E9F8385_es.png
 Image_27419F87_29D5_3D1A_4180_7C7A3E9F8385_mobile.url = skin/Image_27419F87_29D5_3D1A_4180_7C7A3E9F8385_mobile_es.png
@@ -62,38 +66,48 @@ Image_39D35303_2AD4_C51A_41B6_0DE7CAD56899.url = skin/Image_39D35303_2AD4_C51A_4
 Image_39D35303_2AD4_C51A_41B6_0DE7CAD56899_mobile.url = skin/Image_39D35303_2AD4_C51A_41B6_0DE7CAD56899_mobile_es.png
 Image_3C8B96EE_2A3C_CCEB_41B9_44473730E669.url = skin/Image_3C8B96EE_2A3C_CCEB_41B9_44473730E669_es.jpg
 Image_3C8B96EE_2A3C_CCEB_41B9_44473730E669_mobile.url = skin/Image_3C8B96EE_2A3C_CCEB_41B9_44473730E669_mobile_es.jpg
+Image_6B9AFC8D_4520_CA56_41B5_5A13A2497DBD.url = skin/Image_6B9AFC8D_4520_CA56_41B5_5A13A2497DBD_es.png
+Image_7086165E_45E0_C6F5_41CA_877D73F9D377.url = skin/Image_7086165E_45E0_C6F5_41CA_877D73F9D377_es.png
+Image_7097EAF3_45E1_4FB3_41C0_88799DA25AC9.url = skin/Image_7097EAF3_45E1_4FB3_41C0_88799DA25AC9_es.png
+Image_70FACDB6_45E1_45B5_41CE_E50D9500E3B3.url = skin/Image_70FACDB6_45E1_45B5_41CE_E50D9500E3B3_es.png
+Image_71112D04_4523_4A55_4187_8A6E8DD9E4B4.url = skin/Image_71112D04_4523_4A55_4187_8A6E8DD9E4B4_es.png
 
 ### Pestaña
-TabPanelPage_2669865D_296E_469A_41B6_E391BC5138B8_mobile.label = Informacion General
 TabPanelPage_2669865D_296E_469A_41B6_E391BC5138B8.label = Informacion General
+TabPanelPage_2669865D_296E_469A_41B6_E391BC5138B8_mobile.label = Informacion General
 TabPanelPage_2D3A4AE9_3EC4_0DEA_41C7_881E96CEC040_mobile.label = Informacion General
-TabPanelPage_2D062053_3EC4_7C3E_41CC_BE3507C5EC9D.label = Informacion General
-TabPanelPage_2DD78948_3EC4_0C2A_41A6_7B301716FDAD_mobile.label = Informacion General
 TabPanelPage_2D744ABE_3EC4_0C66_41C0_7E23DF53CA35.label = Informacion General
-TabPanelPage_2D787C4E_3EC4_0426_41CC_B8D19CE10266.label = Informacion General
+TabPanelPage_2D062053_3EC4_7C3E_41CC_BE3507C5EC9D.label = Informacion General
 TabPanelPage_2A3BF75B_3EC4_042E_4189_6AC21EE6017B_mobile.label = Informacion General
 TabPanelPage_2DC08CB8_3EC4_046A_41BC_23DED675883D_mobile.label = Informacion General
+TabPanelPage_2DD78948_3EC4_0C2A_41A6_7B301716FDAD_mobile.label = Informacion General
+TabPanelPage_2D787C4E_3EC4_0426_41CC_B8D19CE10266.label = Informacion General
 TabPanelPage_2A56E924_3EC4_0C1A_41A2_52E636483D21.label = Informacion General
-TabPanelPage_2D059C52_3EC4_043E_41B5_CF96B01996DC.label = Modelo 3D
-TabPanelPage_2D130057_3EC4_7C26_416E_08332D1C9FB3.label = Modelo 3D
-TabPanelPage_2D01FAC3_3EC4_0C1E_41C5_28F5FA2901CD.label = Modelo 3D
-TabPanelPage_2A5CD929_3EC4_0C6A_41BF_AD89F9394F0A.label = Modelo 3D
-TabPanelPage_2DCC6CBE_3EC4_0466_41C0_3A3DF3B948AF_mobile.label = Modelo 3D
-TabPanelPage_2AC27762_3EC4_041E_41CD_9E236A5FD2EE_mobile.label = Modelo 3D
+TabPanelPage_7725C90D_4520_CA57_41D0_7D67B6264A31.label = Marcador AR
+TabPanelPage_7725B90D_4520_CA57_41AD_6D4D4AD74ED6.label = Marcador AR
+TabPanelPage_7725A90D_4520_CA57_41CE_6BA99EC2E5EA.label = Marcador AR
+TabPanelPage_7046E742_4527_46CD_41BD_ED7E6ABD632F.label = Marcador AR
+TabPanelPage_7725890D_4520_CA57_41C5_49A13D189418.label = Marcador AR
 TabPanelPage_3D8ED01B_2A5D_C32A_41AA_593ED55EC9E6.label = Modelo 3D
-TabPanelPage_3D8ED01B_2A5D_C32A_41AA_593ED55EC9E6_mobile.label = Modelo 3D
-TabPanelPage_2DC53AEC_3EC4_0DEA_41C8_E7BE4ECB43AB_mobile.label = Modelo 3D
+TabPanelPage_2D01FAC3_3EC4_0C1E_41C5_28F5FA2901CD.label = Modelo 3D
+TabPanelPage_2D130057_3EC4_7C26_416E_08332D1C9FB3.label = Modelo 3D
+TabPanelPage_2A5CD929_3EC4_0C6A_41BF_AD89F9394F0A.label = Modelo 3D
+TabPanelPage_2D059C52_3EC4_043E_41B5_CF96B01996DC.label = Modelo 3D
+TabPanelPage_2AC27762_3EC4_041E_41CD_9E236A5FD2EE_mobile.label = Modelo 3D
 TabPanelPage_2DE3794C_3EC4_0C2A_418C_FF58774A2C50_mobile.label = Modelo 3D
+TabPanelPage_3D8ED01B_2A5D_C32A_41AA_593ED55EC9E6_mobile.label = Modelo 3D
+TabPanelPage_2DCC6CBE_3EC4_0466_41C0_3A3DF3B948AF_mobile.label = Modelo 3D
+TabPanelPage_2DC53AEC_3EC4_0DEA_41C8_E7BE4ECB43AB_mobile.label = Modelo 3D
+TabPanelPage_3D8E101B_2A5D_C32A_41AC_C2C6897EF057.label = Panoramas Disponibles
 TabPanelPage_2DCBCCBC_3EC4_046A_41BD_53192B384AA6_mobile.label = Panoramas Disponibles
-TabPanelPage_2D7DCC50_3EC4_043A_41C6_050F2B24E849.label = Panoramas Disponibles
-TabPanelPage_2A55F926_3EC4_0C66_41BC_986267497F7C.label = Panoramas Disponibles
+TabPanelPage_3D8E101B_2A5D_C32A_41AC_C2C6897EF057_mobile.label = Panoramas Disponibles
 TabPanelPage_2D7E2AC0_3EC4_0C1A_41C5_9064D0E96BE4.label = Panoramas Disponibles
-TabPanelPage_2D0BE054_3EC4_7C3A_41B1_3E123F01FDED.label = Panoramas Disponibles
+TabPanelPage_2D7DCC50_3EC4_043A_41C6_050F2B24E849.label = Panoramas Disponibles
 TabPanelPage_2DDAD94A_3EC4_0C2E_41B2_0583AC45B0D3_mobile.label = Panoramas Disponibles
 TabPanelPage_2D3C9AEA_3EC4_0DEE_41B4_C5B9C6926A83_mobile.label = Panoramas Disponibles
-TabPanelPage_3D8E101B_2A5D_C32A_41AC_C2C6897EF057.label = Panoramas Disponibles
+TabPanelPage_2D0BE054_3EC4_7C3A_41B1_3E123F01FDED.label = Panoramas Disponibles
 TabPanelPage_2A397760_3EC4_041A_41B5_C72288A2FE39_mobile.label = Panoramas Disponibles
-TabPanelPage_3D8E101B_2A5D_C32A_41AC_C2C6897EF057_mobile.label = Panoramas Disponibles
+TabPanelPage_2A55F926_3EC4_0C66_41BC_986267497F7C.label = Panoramas Disponibles
 
 ### Texto Multilínea
 HTMLText_3D748928_2921_CABA_4178_D94AEBB8A60C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.3333333333333335vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.33vw;font-family:'Montserrat';"><B>Desactivar Puntos de Interes</B></SPAN></SPAN></DIV></div>
@@ -102,6 +116,11 @@ HTMLText_3D901BB7_2921_CD96_41BD_DCC08A16836A.html = <div style="text-align:left
 HTMLText_3D748928_2921_CABA_4178_D94AEBB8A60C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Desactivar Puntos de Interes</B></SPAN></SPAN></DIV></div>
 HTMLText_3B51F734_2922_C6AA_41A8_F8B46480DBA8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Giroscopio</B></SPAN></SPAN></DIV></div>
 HTMLText_3D1BF2F4_2921_BFAA_41A5_4ADF498194BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Pantalla Completa</B></SPAN></SPAN></DIV></div>
+HTMLText_71111D05_4523_4A57_41C4_76AE58E0F8BC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Montserrat';"><B>¡Descubre la Historia en 3D!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat';"><B>Escanea este marcador con nuestra app Treasure Trail y déjate sorprender por la magia de la Realidad Aumentada. ¡Es como tener Cartagena en la palma de tu mano!</B></SPAN></SPAN></DIV></div>
+HTMLText_70973AF3_45E1_4FB3_41C9_00AC16ADCE6E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Montserrat';"><B>¡Descubre la Historia en 3D!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat';"><B>Escanea este marcador con nuestra app Treasure Trail y déjate sorprender por la magia de la Realidad Aumentada. ¡Es como tener Cartagena en la palma de tu mano!</B></SPAN></SPAN></DIV></div>
+HTMLText_7087D65E_45E0_C6F5_41B4_8939889A9E59.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Montserrat';"><B>¡Descubre la Historia en 3D!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat';"><B>Escanea este marcador con nuestra app Treasure Trail y déjate sorprender por la magia de la Realidad Aumentada. ¡Es como tener Cartagena en la palma de tu mano!</B></SPAN></SPAN></DIV></div>
+HTMLText_70F50DB6_45E1_45B5_419A_43F00648FF23.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Montserrat';"><B>¡Descubre la Historia en 3D!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat';"><B>Escanea este marcador con nuestra app Treasure Trail y déjate sorprender por la magia de la Realidad Aumentada. ¡Es como tener Cartagena en la palma de tu mano!</B></SPAN></SPAN></DIV></div>
+HTMLText_773AD31C_4520_DE75_41C2_1DA1DD625590.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Montserrat';"><B>¡Descubre la Historia en 3D!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat';"><B>Escanea este marcador con nuestra app Treasure Trail y déjate sorprender por la magia de la Realidad Aumentada. ¡Es como tener Cartagena en la palma de tu mano!</B></SPAN></SPAN></DIV></div>
 HTMLText_3D1BF2F4_2921_BFAA_41A5_4ADF498194BF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';"><B>Pantalla Completa</B></SPAN></SPAN></DIV></div>
 HTMLText_3B51F734_2922_C6AA_41A8_F8B46480DBA8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Montserrat';"><B>Giroscopio</B></SPAN></SPAN></DIV></div>
 HTMLText_3FC73D62_2A35_5D1B_41BA_3572FA01D52C.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:justify;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37px;font-family:'Montserrat';"><B>La India Catalina</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Montserrat';"><B>Un Símbolo de Identidad</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">La India Catalina fue una mujer indígena de la tribu Calamari que vivió en lo que hoy es Colombia durante el siglo XVI. Fue secuestrada por los españoles en 1509 y posteriormente bautizada con el nombre de Catalina. Desempeñó un papel importante como intérprete y enlace entre los conquistadores y los pueblos nativos. Su historia simboliza la compleja interacción entre los indígenas y los colonizadores en la época de la conquista.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">El monumento a la India Catalina en Cartagena, Colombia, es un símbolo que rinde homenaje a la herencia indígena y su papel en la historia de la ciudad. Representa la conexión entre culturas y la resistencia indígena ante la conquista. Además, destaca la importancia de preservar y celebrar la diversidad cultural de Colombia.</SPAN></SPAN></DIV></div>
