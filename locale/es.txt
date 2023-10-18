@@ -13,8 +13,8 @@ WebFrame_2D0B5C52_3EC4_043E_41C0_0B1D31B3C69E.url = https://sketchfab.com/models
 WebFrame_2DCBFAEE_3EC4_0DE9_41C5_40A1147B4F3F_mobile.url = https://sketchfab.com/models/d0577c7798d34bd6ab9cedb95637c355/embed
 WebFrame_2D114057_3EC4_7C26_41C5_6E68A0DDBBB8.url = https://sketchfab.com/models/d34978bab6264cd19ca81391f41e8777/embed
 WebFrame_2DD22CBF_3EC4_0466_41BC_DA99428901FA_mobile.url = https://sketchfab.com/models/d34978bab6264cd19ca81391f41e8777/embed
-LinkBehaviour_3211A58A_3DC4_7137_41A7_7B0F6F7ACA06.source = https://treasure-trail.lsv-tech.com/
 LinkBehaviour_27643DD7_29D5_3D39_41B5_662ADC95D3FE.source = https://treasure-trail.lsv-tech.com/
+LinkBehaviour_3211A58A_3DC4_7137_41A7_7B0F6F7ACA06.source = https://treasure-trail.lsv-tech.com/
 
 ## Media
 
