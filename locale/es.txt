@@ -14,7 +14,7 @@ WebFrame_2DCBFAEE_3EC4_0DE9_41C5_40A1147B4F3F_mobile.url = https://sketchfab.com
 WebFrame_2D114057_3EC4_7C26_41C5_6E68A0DDBBB8.url = https://sketchfab.com/models/d34978bab6264cd19ca81391f41e8777/embed
 WebFrame_2DD22CBF_3EC4_0466_41BC_DA99428901FA_mobile.url = https://sketchfab.com/models/d34978bab6264cd19ca81391f41e8777/embed
 LinkBehaviour_3211A58A_3DC4_7137_41A7_7B0F6F7ACA06.source = https://treasure-trail.lsv-tech.com/
-LinkBehaviour_27643DD7_29D5_3D39_41B5_662ADC95D3FE.source = https://www.google.com
+LinkBehaviour_27643DD7_29D5_3D39_41B5_662ADC95D3FE.source = https://treasure-trail.lsv-tech.com/
 
 ## Media
 
@@ -96,7 +96,7 @@ TabPanelPage_2A397760_3EC4_041A_41B5_C72288A2FE39_mobile.label = Panoramas Dispo
 TabPanelPage_3D8E101B_2A5D_C32A_41AC_C2C6897EF057_mobile.label = Panoramas Disponibles
 
 ### Texto Multilínea
-HTMLText_3D748928_2921_CABA_4178_D94AEBB8A60C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.333333333333333vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.33vw;font-family:'Montserrat';"><B>Desactivar Puntos de Interes</B></SPAN></SPAN></DIV></div>
+HTMLText_3D748928_2921_CABA_4178_D94AEBB8A60C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.3333333333333335vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.33vw;font-family:'Montserrat';"><B>Desactivar Puntos de Interes</B></SPAN></SPAN></DIV></div>
 HTMLText_3D901BB7_2921_CD96_41BD_DCC08A16836A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.888888888888888vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.89vw;font-family:'Montserrat';"><B>Desactivar Audio</B></SPAN></SPAN></DIV></div>
 HTMLText_3D901BB7_2921_CD96_41BD_DCC08A16836A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Desactivar Audio</B></SPAN></SPAN></DIV></div>
 HTMLText_3D748928_2921_CABA_4178_D94AEBB8A60C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Desactivar Puntos de Interes</B></SPAN></SPAN></DIV></div>
