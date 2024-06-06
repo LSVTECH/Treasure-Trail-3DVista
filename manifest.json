@@ -36,9 +36,9 @@
    "type": "image/png"
   }
  ],
- "theme_color": "#FFFFFF",
  "display": "fullscreen",
  "background_color": "#FFFFFF",
+ "name": "Treasure Trail",
  "start_url": "index.htm?installed=true",
- "name": "Treasure Trail"
+ "theme_color": "#FFFFFF"
 }

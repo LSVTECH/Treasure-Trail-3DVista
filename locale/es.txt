@@ -3,22 +3,38 @@
 ## Acción
 
 ### URL
-LinkBehaviour_7C124885_5C70_0A58_41BC_874723EA272A.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
+LinkBehaviour_F5145529_EFCA_4A1E_41D5_4CADA34C04E6.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
+LinkBehaviour_7D991C16_5C70_0A78_41A5_CD4D938F9788.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
 LinkBehaviour_7FDC4A3D_5C70_0EA9_41CB_9DE24FFAF713.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
+LinkBehaviour_F5102531_EFCA_4A0E_41D5_57EBBB94A2B6.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
+LinkBehaviour_7C124885_5C70_0A58_41BC_874723EA272A.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
+LinkBehaviour_F510B538_EFCA_4A7E_41EB_DF97234EC115.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
 LinkBehaviour_7C4D41F5_5C70_3DB9_41A9_D2AFF4FA917C.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
 LinkBehaviour_7CD80A76_5C70_0EBB_41D2_A6D3A8C3650D.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
-LinkBehaviour_7D991C16_5C70_0A78_41A5_CD4D938F9788.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
-LinkBehaviour_43D048AA_5CD0_02AF_41D1_B3F3E825AAF5.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
-LinkBehaviour_4B7C4CC9_5C30_02ED_41BE_57D988A3D8D9.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
-LinkBehaviour_43E7E126_5C50_3A5B_41B4_E08F58986912.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
-LinkBehaviour_43D07CEF_5C50_0BA9_41CF_462B4E5CEE0B.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_F519D51D_EFCA_4A36_41E7_AB05891F79D2.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
+LinkBehaviour_F5180516_EFCA_4A32_41EC_4FCD12812E9A.source = https://apps.apple.com/co/app/treasure-trail/id6478123879
 LinkBehaviour_4243ED0B_5C30_0A68_41CA_3E2B31C66B24.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_43D07CEF_5C50_0BA9_41CF_462B4E5CEE0B.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_43E7E126_5C50_3A5B_41B4_E08F58986912.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_F519A51C_EFCA_4A36_41E3_4E381CA63275.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_4B7C4CC9_5C30_02ED_41BE_57D988A3D8D9.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_F5141529_EFCA_4A1E_41D9_3E8B7E99E00A.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_43D048AA_5CD0_02AF_41D1_B3F3E825AAF5.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_F512A530_EFCA_4A0E_41EB_36D3E2B70BB5.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_F51BC515_EFCA_4A36_41D4_10F95D2425C8.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+LinkBehaviour_F5118537_EFCA_4A72_41C1_63FABB7D509A.source = https://play.google.com/store/apps/details?id=com.TreasureTrail.LSV&pcampaignid=web_share
+WebFrame_3CFF6E78_2A4D_DFF6_41A3_A548D2B72888_mobile.url = https://sketchfab.com/models/339646f3ed174dd0a169a37392e632c3/embed
 WebFrame_3CFF6E78_2A4D_DFF6_41A3_A548D2B72888.url = https://sketchfab.com/models/339646f3ed174dd0a169a37392e632c3/embed
+WebFrame_2D07BAC3_3EC4_0C1E_418A_810B1BBE35AE_mobile.url = https://sketchfab.com/models/45c2b5045c624f1f93f8297414ce8768/embed
 WebFrame_2D07BAC3_3EC4_0C1E_418A_810B1BBE35AE.url = https://sketchfab.com/models/45c2b5045c624f1f93f8297414ce8768/embed
 WebFrame_2A62992A_3EC4_0C6E_418B_3B820743F429.url = https://sketchfab.com/models/cd2df7aa71a0466cb2ba63281765f653/embed
+WebFrame_2A62992A_3EC4_0C6E_418B_3B820743F429_mobile.url = https://sketchfab.com/models/cd2df7aa71a0466cb2ba63281765f653/embed
+WebFrame_2D0B5C52_3EC4_043E_41C0_0B1D31B3C69E_mobile.url = https://sketchfab.com/models/d0577c7798d34bd6ab9cedb95637c355/embed
 WebFrame_2D0B5C52_3EC4_043E_41C0_0B1D31B3C69E.url = https://sketchfab.com/models/d0577c7798d34bd6ab9cedb95637c355/embed
 WebFrame_2D114057_3EC4_7C26_41C5_6E68A0DDBBB8.url = https://sketchfab.com/models/d34978bab6264cd19ca81391f41e8777/embed
+WebFrame_2D114057_3EC4_7C26_41C5_6E68A0DDBBB8_mobile.url = https://sketchfab.com/models/d34978bab6264cd19ca81391f41e8777/embed
 LinkBehaviour_27643DD7_29D5_3D39_41B5_662ADC95D3FE.source = https://www.google.com
+LinkBehaviour_F5E31504_EFCA_4A16_41BD_A88145AF2575.source = https://www.google.com
 
 ## Media
 
@@ -46,54 +62,271 @@ album_3B39AFEE_2124_282F_4167_19F592F63350.label = Álbum de Fotos snazzy-image 
 
 ## Skin
 
+### Botón
+Button_F89C54C6_EFBB_CA15_41BA_CF22164E6EDA.label = AMENITIES >
+Button_F89C54C6_EFBB_CA15_41BA_CF22164E6EDA_mobile.label = AMENITIES >
+Button_F89D74C8_EFBB_CA1D_41E4_4D1DBF09DFE6.label = BACK
+Button_F89B44CA_EFBB_CA1D_41A9_89C5E1AED470_mobile.label = BACK
+Button_F89DB4C9_EFBB_CA1F_41E1_53A238FAFE66.label = BACK
+Button_F89DF4C7_EFBB_CA13_41D1_A3F4F69ED627_mobile.label = BACK
+Button_F89D74C8_EFBB_CA1D_41E4_4D1DBF09DFE6_mobile.label = BACK
+Button_F89DF4C7_EFBB_CA13_41D1_A3F4F69ED627.label = BACK
+Button_F89A84CA_EFBB_CA1D_41EC_DC8F0CED7BCA_mobile.label = BACK
+Button_F89B44CA_EFBB_CA1D_41A9_89C5E1AED470.label = BACK
+Button_F89DB4C9_EFBB_CA1F_41E1_53A238FAFE66_mobile.label = BACK
+Button_F89C64C7_EFBB_CA13_41E7_B19E6F242D50.label = BACK
+Button_F89A84CA_EFBB_CA1D_41EC_DC8F0CED7BCA.label = BACK
+Button_F89C64C7_EFBB_CA13_41E7_B19E6F242D50_mobile.label = BACK
+Button_F89CF4C7_EFBB_CA13_41E8_D7E49ABCA572_mobile.label = Bar
+Button_F89CF4C7_EFBB_CA13_41E8_D7E49ABCA572.label = Bar
+Button_F89CD4C7_EFBB_CA13_416B_592807BA283C_mobile.label = Chill Out
+Button_F89CD4C7_EFBB_CA13_416B_592807BA283C.label = Chill Out
+Button_F89CB4C7_EFBB_CA13_41A9_35850636C0DF.label = Garden
+Button_F89CB4C7_EFBB_CA13_41A9_35850636C0DF_mobile.label = Garden
+Button_F89C54C6_EFBB_CA15_41BA_CF22164E6EDA.pressedLabel = Inserdt Text
+Button_F89C54C6_EFBB_CA15_41BA_CF22164E6EDA_mobile.pressedLabel = Inserdt Text
+Button_F89DB4C7_EFBB_CA13_41E8_3A6E273D1877.label = Lobby
+Button_F89DB4C7_EFBB_CA13_41E8_3A6E273D1877_mobile.label = Lobby
+Button_F89C14C8_EFBB_CA1D_41E8_6908A85FABCB.label = Lorem Ipsum
+Button_F89DF4C8_EFBB_CA1D_41E5_01D49840466A.label = Lorem Ipsum
+Button_F89C04C8_EFBB_CA1D_41DC_BA76FDF1C63D.label = Lorem Ipsum
+Button_F89C04C8_EFBB_CA1D_41DC_BA76FDF1C63D.pressedLabel = Lorem Ipsum
+Button_F89DD4C8_EFBB_CA1D_41EA_48E1030C637D.label = Lorem Ipsum
+Button_F89A64CB_EFBB_CA13_41D9_798EB187E2B8_mobile.label = Lorem Ipsum
+Button_F89C34C8_EFBB_CA1D_41D3_F1F569196EA7.label = Lorem Ipsum
+Button_F89A74CB_EFBB_CA13_41DE_95DDA9911885_mobile.label = Lorem Ipsum
+Button_F89C84C7_EFBB_CA13_41CB_7BCB82161F4B.label = Lorem Ipsum
+Button_F89DB4C8_EFBB_CA1D_41BB_DBA1642732C3.label = Lorem Ipsum
+Button_F89AE4C8_EFBB_CA1E_41C4_E1D6A5540C8E.label = Lorem Ipsum
+Button_F89C54C8_EFBB_CA1D_419C_AF738057249F.label = Lorem Ipsum
+Button_F89AC4C8_EFBB_CA1E_41D5_1EB743D59077.label = Lorem Ipsum
+Button_F89D94C8_EFBB_CA1D_41EC_FDD20110D620.label = Lorem Ipsum
+Button_F89A54CB_EFBB_CA13_41E0_0758210FC46E_mobile.label = Lorem Ipsum
+Button_F89A24CB_EFBB_CA13_41E2_E99B78DCC177_mobile.label = Lorem Ipsum
+Button_F89BE4CB_EFBB_CA13_41BF_099C9A537D15_mobile.label = Lorem Ipsum
+Button_F89AE4C8_EFBB_CA1E_41C4_E1D6A5540C8E.pressedLabel = Lorem Ipsum
+Button_F89DC4C9_EFBB_CA1F_41E7_6EB40987336B.label = Lorem Ipsum
+Button_F89A04CB_EFBB_CA13_41C6_59D47045C9D0_mobile.label = Lorem Ipsum
+Button_F89D74C9_EFBB_CA1F_41D2_1254D6E3C633.label = Lorem Ipsum
+Button_F89D44C9_EFBB_CA1F_41E6_A9FA96EB08EB.label = Lorem Ipsum
+Button_F89D54C9_EFBB_CA1F_41BF_633BF025ED9E.label = Lorem Ipsum
+Button_F89D54C9_EFBB_CA1F_41BF_633BF025ED9E.pressedLabel = Lorem Ipsum
+Button_F89D24C9_EFBB_CA1F_41ED_CC1DB4EAD54C.label = Lorem Ipsum
+Button_F89D34C9_EFBB_CA1F_41E7_08963DF3943F.label = Lorem Ipsum
+Button_F89D84C8_EFBB_CA1D_41E7_4F6DB9E0AFA6.label = Lorem Ipsum
+Button_F89D14C9_EFBB_CA1F_41E5_ABE020CA3C6A.label = Lorem Ipsum
+Button_F89AF4C9_EFBB_CA1F_41C6_2DFD9FB92083.label = Lorem Ipsum
+Button_F89AC4C9_EFBB_CA1F_41EB_B79DBF6367C9.label = Lorem Ipsum
+Button_F89AD4C9_EFBB_CA1F_41D2_ECFAA8ED5FAC.label = Lorem Ipsum
+Button_F89D34C8_EFBB_CA1E_41EB_10FE6DF1DE28.label = Lorem Ipsum
+Button_F89A44CA_EFBB_CA1D_41C3_1DBE33FFFB67.label = Lorem Ipsum
+Button_F89A54CA_EFBB_CA1D_41C0_844451E4E113.label = Lorem Ipsum
+Button_F89A34CA_EFBB_CA1D_41E7_E38DE2104B7F.label = Lorem Ipsum
+Button_F89A34CA_EFBB_CA1D_41E7_E38DE2104B7F.pressedLabel = Lorem Ipsum
+Button_F89A04CA_EFBB_CA1D_41AD_978041AB7138.label = Lorem Ipsum
+Button_F89A14CA_EFBB_CA1D_41E7_349F705FF998.label = Lorem Ipsum
+Button_F89D04C8_EFBB_CA1E_41EB_AAD651041B4E.label = Lorem Ipsum
+Button_F89BF4CA_EFBB_CA1D_41E2_C64B826DAFC1.label = Lorem Ipsum
+Button_F89BC4CA_EFBB_CA1D_41C1_A9B64555B113.label = Lorem Ipsum
+Button_F89BD4CA_EFBB_CA1D_41CE_0FAAA4B4627C.label = Lorem Ipsum
+Button_F89BB4CA_EFBB_CA1D_41B5_D92272A0147B.label = Lorem Ipsum
+Button_F89AA4C8_EFBB_CA1E_41DA_C0C4A75D382A.label = Lorem Ipsum
+Button_F89AB4CB_EFBB_CA13_41D2_8A7E6716865C.label = Lorem Ipsum
+Button_F89A84CB_EFBB_CA13_41BA_F35498E9B99C.label = Lorem Ipsum
+Button_F89A94CB_EFBB_CA13_41EA_8E767A9BD30C.label = Lorem Ipsum
+Button_F89BC4CA_EFBB_CA1D_41C1_A9B64555B113_mobile.label = Lorem Ipsum
+Button_F89A64CB_EFBB_CA13_41D9_798EB187E2B8.label = Lorem Ipsum
+Button_F89A74CB_EFBB_CA13_41DE_95DDA9911885.label = Lorem Ipsum
+Button_F89A84C8_EFBB_CA1E_41DD_B5332C1F0AC0.label = Lorem Ipsum
+Button_F89A54CB_EFBB_CA13_41E0_0758210FC46E.label = Lorem Ipsum
+Button_F89A24CB_EFBB_CA13_41E2_E99B78DCC177.label = Lorem Ipsum
+Button_F89A04CB_EFBB_CA13_41C6_59D47045C9D0.label = Lorem Ipsum
+Button_F89BE4CB_EFBB_CA13_41BF_099C9A537D15.label = Lorem Ipsum
+Button_F89A94C8_EFBB_CA1E_41EC_CDADDF3D7DB2.label = Lorem Ipsum
+Button_F89A94CB_EFBB_CA13_41EA_8E767A9BD30C_mobile.pressedLabel = Lorem Ipsum
+Button_F89C14C9_EFBB_CA1F_41C5_234B4867D222.label = Lorem Ipsum
+Button_F89A94CB_EFBB_CA13_41EA_8E767A9BD30C.pressedLabel = Lorem Ipsum
+Button_F89A94CB_EFBB_CA13_41EA_8E767A9BD30C_mobile.label = Lorem Ipsum
+Button_F89A84CB_EFBB_CA13_41BA_F35498E9B99C_mobile.label = Lorem Ipsum
+Button_F89AB4CB_EFBB_CA13_41D2_8A7E6716865C_mobile.label = Lorem Ipsum
+Button_F89AE4C8_EFBB_CA1E_41C4_E1D6A5540C8E_mobile.pressedLabel = Lorem Ipsum
+Button_F89AC4C8_EFBB_CA1E_41D5_1EB743D59077_mobile.label = Lorem Ipsum
+Button_F89D04C8_EFBB_CA1E_41EB_AAD651041B4E_mobile.label = Lorem Ipsum
+Button_F89AE4C8_EFBB_CA1E_41C4_E1D6A5540C8E_mobile.label = Lorem Ipsum
+Button_F89BB4CA_EFBB_CA1D_41B5_D92272A0147B_mobile.label = Lorem Ipsum
+Button_F89BF4CA_EFBB_CA1D_41E2_C64B826DAFC1_mobile.label = Lorem Ipsum
+Button_F89A34CA_EFBB_CA1D_41E7_E38DE2104B7F_mobile.pressedLabel = Lorem Ipsum
+Button_F89A54CA_EFBB_CA1D_41C0_844451E4E113_mobile.label = Lorem Ipsum
+Button_F89AD4C9_EFBB_CA1F_41D2_ECFAA8ED5FAC_mobile.label = Lorem Ipsum
+Button_F89BD4CA_EFBB_CA1D_41CE_0FAAA4B4627C_mobile.label = Lorem Ipsum
+Button_F89A44CA_EFBB_CA1D_41C3_1DBE33FFFB67_mobile.label = Lorem Ipsum
+Button_F89C84C7_EFBB_CA13_41CB_7BCB82161F4B_mobile.label = Lorem Ipsum
+Button_F89A14CA_EFBB_CA1D_41E7_349F705FF998_mobile.label = Lorem Ipsum
+Button_F89C54C8_EFBB_CA1D_419C_AF738057249F_mobile.label = Lorem Ipsum
+Button_F89C34C8_EFBB_CA1D_41D3_F1F569196EA7_mobile.label = Lorem Ipsum
+Button_F89C04C8_EFBB_CA1D_41DC_BA76FDF1C63D_mobile.label = Lorem Ipsum
+Button_F89C04C8_EFBB_CA1D_41DC_BA76FDF1C63D_mobile.pressedLabel = Lorem Ipsum
+Button_F89C14C8_EFBB_CA1D_41E8_6908A85FABCB_mobile.label = Lorem Ipsum
+Button_F89DF4C8_EFBB_CA1D_41E5_01D49840466A_mobile.label = Lorem Ipsum
+Button_F89A94C8_EFBB_CA1E_41EC_CDADDF3D7DB2_mobile.label = Lorem Ipsum
+Button_F89DD4C8_EFBB_CA1D_41EA_48E1030C637D_mobile.label = Lorem Ipsum
+Button_F89DB4C8_EFBB_CA1D_41BB_DBA1642732C3_mobile.label = Lorem Ipsum
+Button_F89D84C8_EFBB_CA1D_41E7_4F6DB9E0AFA6_mobile.label = Lorem Ipsum
+Button_F89D94C8_EFBB_CA1D_41EC_FDD20110D620_mobile.label = Lorem Ipsum
+Button_F89A04CA_EFBB_CA1D_41AD_978041AB7138_mobile.label = Lorem Ipsum
+Button_F89D34C8_EFBB_CA1E_41EB_10FE6DF1DE28_mobile.label = Lorem Ipsum
+Button_F89A34CA_EFBB_CA1D_41E7_E38DE2104B7F_mobile.label = Lorem Ipsum
+Button_F89D74C9_EFBB_CA1F_41D2_1254D6E3C633_mobile.label = Lorem Ipsum
+Button_F89AF4C9_EFBB_CA1F_41C6_2DFD9FB92083_mobile.label = Lorem Ipsum
+Button_F89D14C9_EFBB_CA1F_41E5_ABE020CA3C6A_mobile.label = Lorem Ipsum
+Button_F89AA4C8_EFBB_CA1E_41DA_C0C4A75D382A_mobile.label = Lorem Ipsum
+Button_F89AC4C9_EFBB_CA1F_41EB_B79DBF6367C9_mobile.label = Lorem Ipsum
+Button_F89A84C8_EFBB_CA1E_41DD_B5332C1F0AC0_mobile.label = Lorem Ipsum
+Button_F89D44C9_EFBB_CA1F_41E6_A9FA96EB08EB_mobile.label = Lorem Ipsum
+Button_F89C14C9_EFBB_CA1F_41C5_234B4867D222_mobile.label = Lorem Ipsum
+Button_F89DC4C9_EFBB_CA1F_41E7_6EB40987336B_mobile.label = Lorem Ipsum
+Button_F89D54C9_EFBB_CA1F_41BF_633BF025ED9E_mobile.pressedLabel = Lorem Ipsum
+Button_F89D54C9_EFBB_CA1F_41BF_633BF025ED9E_mobile.label = Lorem Ipsum
+Button_F89D24C9_EFBB_CA1F_41ED_CC1DB4EAD54C_mobile.label = Lorem Ipsum
+Button_F89D34C9_EFBB_CA1F_41E7_08963DF3943F_mobile.label = Lorem Ipsum
+Button_F89DC4C8_EFBB_CA1D_41D6_72159A119E84_mobile.label = Lorem ipsum
+Button_F89AB4C8_EFBB_CA1E_41D1_CD988BCC60BE_mobile.label = Lorem ipsum
+Button_F89D04C9_EFBB_CA1F_41CE_6BC7E580156D.label = Lorem ipsum
+Button_F89D04C9_EFBB_CA1F_41CE_6BC7E580156D_mobile.label = Lorem ipsum
+Button_F89A44CB_EFBB_CA13_41DD_A44BD514710A_mobile.label = Lorem ipsum
+Button_F89DC4C8_EFBB_CA1D_41D6_72159A119E84.label = Lorem ipsum
+Button_F89AB4C8_EFBB_CA1E_41D1_CD988BCC60BE.label = Lorem ipsum
+Button_F89BE4CA_EFBB_CA1D_41E3_136B15EC5E28.label = Lorem ipsum
+Button_F89BE4CA_EFBB_CA1D_41E3_136B15EC5E28_mobile.label = Lorem ipsum
+Button_F89A44CB_EFBB_CA13_41DD_A44BD514710A.label = Lorem ipsum
+Button_F89DA4C7_EFBB_CA13_41D0_9876A5F92CF1.label = Main Entrance
+Button_F89DA4C7_EFBB_CA13_41D0_9876A5F92CF1_mobile.label = Main Entrance
+Button_F89D94C7_EFBB_CA13_41DB_D90A913225EB_mobile.label = Meeting Area 1
+Button_F89D94C7_EFBB_CA13_41DB_D90A913225EB.label = Meeting Area 1
+Button_F89D64C7_EFBB_CA13_41E5_D41EC3200575.label = Meeting Area 2
+Button_F89D64C7_EFBB_CA13_41E5_D41EC3200575_mobile.label = Meeting Area 2
+Button_F89C84C5_EFBB_CA17_41E7_399D097D7A73.label = RECEPTION >
+Button_F89C84C5_EFBB_CA17_41E7_399D097D7A73_mobile.label = RECEPTION >
+Button_F89DD4C6_EFBB_CA15_41B4_A94BD5662F79_mobile.label = RESTAURANTS >
+Button_F89DD4C6_EFBB_CA15_41B4_A94BD5662F79.label = RESTAURANTS >
+Button_F89C74C5_EFBB_CA17_41C2_21B6C1AD082E_mobile.label = ROOMS >
+Button_F89C74C5_EFBB_CA17_41C2_21B6C1AD082E.label = ROOMS >
+Button_F89D84C7_EFBB_CA13_41C0_FADA6E5EC230.pressedLabel = Reception
+Button_F89D84C7_EFBB_CA13_41C0_FADA6E5EC230.label = Reception
+Button_F89D84C7_EFBB_CA13_41C0_FADA6E5EC230_mobile.label = Reception
+Button_F89D84C7_EFBB_CA13_41C0_FADA6E5EC230_mobile.pressedLabel = Reception
+Button_F89C34C6_EFBB_CA15_41E1_A4DE4A1B528C_mobile.label = SPORTS AREA >
+Button_F89C34C6_EFBB_CA15_41E1_A4DE4A1B528C.label = SPORTS AREA >
+Button_F89C14C6_EFBB_CA15_41EB_A5C1546A6254.label = SWIMMING POOL >
+Button_F89C14C6_EFBB_CA15_41EB_A5C1546A6254_mobile.label = SWIMMING POOL >
+Button_F89CA4C7_EFBB_CA13_41DA_877F4979EC22_mobile.label = Terrace
+Button_F89CA4C7_EFBB_CA13_41DA_877F4979EC22.label = Terrace
+
 ### Imágen
 Image_27419F87_29D5_3D1A_4180_7C7A3E9F8385.url = skin/Image_27419F87_29D5_3D1A_4180_7C7A3E9F8385_es.png
+Image_27419F87_29D5_3D1A_4180_7C7A3E9F8385_mobile.url = skin/Image_27419F87_29D5_3D1A_4180_7C7A3E9F8385_mobile_es.png
 Image_2A559925_3EC4_0C1A_41C3_1993E894CCEA.url = skin/Image_2A559925_3EC4_0C1A_41C3_1993E894CCEA_es.png
+Image_2A559925_3EC4_0C1A_41C3_1993E894CCEA_mobile.url = skin/Image_2A559925_3EC4_0C1A_41C3_1993E894CCEA_mobile_es.png
 Image_2D0BC054_3EC4_7C3A_41BA_15D7E12C85F6.url = skin/Image_2D0BC054_3EC4_7C3A_41BA_15D7E12C85F6_es.png
+Image_2D0BC054_3EC4_7C3A_41BA_15D7E12C85F6_mobile.url = skin/Image_2D0BC054_3EC4_7C3A_41BA_15D7E12C85F6_mobile_es.png
 Image_2D79CABF_3EC4_0C66_41B2_7A2F942E0518.url = skin/Image_2D79CABF_3EC4_0C66_41B2_7A2F942E0518_es.png
+Image_2D79CABF_3EC4_0C66_41B2_7A2F942E0518_mobile.url = skin/Image_2D79CABF_3EC4_0C66_41B2_7A2F942E0518_mobile_es.png
 Image_2D7DEC4F_3EC4_0426_41B7_56DD0B7293DB.url = skin/Image_2D7DEC4F_3EC4_0426_41B7_56DD0B7293DB_es.jpeg
+Image_2D7DEC4F_3EC4_0426_41B7_56DD0B7293DB_mobile.url = skin/Image_2D7DEC4F_3EC4_0426_41B7_56DD0B7293DB_mobile_es.jpeg
 Image_319DC4FF_2407_A5D0_41B5_7E87E74EB2F2.url = skin/Image_319DC4FF_2407_A5D0_41B5_7E87E74EB2F2_es.png
 Image_32AE2FCE_2A5F_3D2A_41C2_F5CADBAA65DA.url = skin/Image_32AE2FCE_2A5F_3D2A_41C2_F5CADBAA65DA_es.png
+Image_32AE2FCE_2A5F_3D2A_41C2_F5CADBAA65DA_mobile.url = skin/Image_32AE2FCE_2A5F_3D2A_41C2_F5CADBAA65DA_mobile_es.png
 Image_389B00FB_2ACF_C4EA_41C1_A8D35A33392A.url = skin/Image_389B00FB_2ACF_C4EA_41C1_A8D35A33392A_es.png
+Image_389B00FB_2ACF_C4EA_41C1_A8D35A33392A_mobile.url = skin/Image_389B00FB_2ACF_C4EA_41C1_A8D35A33392A_mobile_es.png
 Image_3942C280_2ACC_C716_41B7_CF2F1FFEF425.url = skin/Image_3942C280_2ACC_C716_41B7_CF2F1FFEF425_es.png
+Image_3942C280_2ACC_C716_41B7_CF2F1FFEF425_mobile.url = skin/Image_3942C280_2ACC_C716_41B7_CF2F1FFEF425_mobile_es.png
 Image_39D35303_2AD4_C51A_41B6_0DE7CAD56899.url = skin/Image_39D35303_2AD4_C51A_41B6_0DE7CAD56899_es.png
+Image_39D35303_2AD4_C51A_41B6_0DE7CAD56899_mobile.url = skin/Image_39D35303_2AD4_C51A_41B6_0DE7CAD56899_mobile_es.png
 Image_3C8B96EE_2A3C_CCEB_41B9_44473730E669.url = skin/Image_3C8B96EE_2A3C_CCEB_41B9_44473730E669_es.jpg
+Image_3C8B96EE_2A3C_CCEB_41B9_44473730E669_mobile.url = skin/Image_3C8B96EE_2A3C_CCEB_41B9_44473730E669_mobile_es.jpg
 Image_423E336A_5C50_FEA8_4188_F28B66D164C4.url = skin/Image_423E336A_5C50_FEA8_4188_F28B66D164C4_es.png
+Image_423E336A_5C50_FEA8_4188_F28B66D164C4_mobile.url = skin/Image_423E336A_5C50_FEA8_4188_F28B66D164C4_mobile_es.png
 Image_42464D08_5C30_0A68_41D6_76C569D9A46D.url = skin/Image_42464D08_5C30_0A68_41D6_76C569D9A46D_es.png
+Image_42464D08_5C30_0A68_41D6_76C569D9A46D_mobile.url = skin/Image_42464D08_5C30_0A68_41D6_76C569D9A46D_mobile_es.png
 Image_435DDB70_5C50_0EB8_41C4_B7D6C4E4C779.url = skin/Image_435DDB70_5C50_0EB8_41C4_B7D6C4E4C779_es.png
+Image_435DDB70_5C50_0EB8_41C4_B7D6C4E4C779_mobile.url = skin/Image_435DDB70_5C50_0EB8_41C4_B7D6C4E4C779_mobile_es.png
 Image_43B7A40A_5C30_FA68_41D6_92C2199A877B.url = skin/Image_43B7A40A_5C30_FA68_41D6_92C2199A877B_es.png
+Image_43B7A40A_5C30_FA68_41D6_92C2199A877B_mobile.url = skin/Image_43B7A40A_5C30_FA68_41D6_92C2199A877B_mobile_es.png
 Image_43BBD9EF_5CD0_02A5_41D0_EC0F8BC0802B.url = skin/Image_43BBD9EF_5CD0_02A5_41D0_EC0F8BC0802B_es.png
+Image_43BBD9EF_5CD0_02A5_41D0_EC0F8BC0802B_mobile.url = skin/Image_43BBD9EF_5CD0_02A5_41D0_EC0F8BC0802B_mobile_es.png
 Image_43BD2D11_5C30_0A78_41A4_48385D730A8A.url = skin/Image_43BD2D11_5C30_0A78_41A4_48385D730A8A_es.png
+Image_43BD2D11_5C30_0A78_41A4_48385D730A8A_mobile.url = skin/Image_43BD2D11_5C30_0A78_41A4_48385D730A8A_mobile_es.png
 Image_43CE1CEC_5C50_0BAF_41D2_6377F2FBDA73.url = skin/Image_43CE1CEC_5C50_0BAF_41D2_6377F2FBDA73_es.png
+Image_43CE1CEC_5C50_0BAF_41D2_6377F2FBDA73_mobile.url = skin/Image_43CE1CEC_5C50_0BAF_41D2_6377F2FBDA73_mobile_es.png
 Image_43D26CF1_5C50_0BB9_41D0_860C0BB23D53.url = skin/Image_43D26CF1_5C50_0BB9_41D0_860C0BB23D53_es.png
+Image_43D26CF1_5C50_0BB9_41D0_860C0BB23D53_mobile.url = skin/Image_43D26CF1_5C50_0BB9_41D0_860C0BB23D53_mobile_es.png
 Image_43D308AA_5CD0_02AF_41BA_A20C06A0ABD5.url = skin/Image_43D308AA_5CD0_02AF_41BA_A20C06A0ABD5_es.png
+Image_43D308AA_5CD0_02AF_41BA_A20C06A0ABD5_mobile.url = skin/Image_43D308AA_5CD0_02AF_41BA_A20C06A0ABD5_mobile_es.png
 Image_43DFA8A8_5CD0_02AB_41CB_767F6EC3D92A.url = skin/Image_43DFA8A8_5CD0_02AB_41CB_767F6EC3D92A_es.png
+Image_43DFA8A8_5CD0_02AB_41CB_767F6EC3D92A_mobile.url = skin/Image_43DFA8A8_5CD0_02AB_41CB_767F6EC3D92A_mobile_es.png
 Image_43E40129_5C50_3AA9_41C5_051119654FA1.url = skin/Image_43E40129_5C50_3AA9_41C5_051119654FA1_es.png
+Image_43E40129_5C50_3AA9_41C5_051119654FA1_mobile.url = skin/Image_43E40129_5C50_3AA9_41C5_051119654FA1_mobile_es.png
 Image_43EA4122_5C50_3A5B_41CF_C4D1606FE788.url = skin/Image_43EA4122_5C50_3A5B_41CF_C4D1606FE788_es.png
+Image_43EA4122_5C50_3A5B_41CF_C4D1606FE788_mobile.url = skin/Image_43EA4122_5C50_3A5B_41CF_C4D1606FE788_mobile_es.png
 Image_493D7EFE_5C70_3EA7_41D0_15546B3928E7.url = skin/Image_493D7EFE_5C70_3EA7_41D0_15546B3928E7_es.png
+Image_493D7EFE_5C70_3EA7_41D0_15546B3928E7_mobile.url = skin/Image_493D7EFE_5C70_3EA7_41D0_15546B3928E7_mobile_es.png
 Image_49A37F11_5C51_FF7D_41D6_ECD7AA55D6DE.url = skin/Image_49A37F11_5C51_FF7D_41D6_ECD7AA55D6DE_es.png
+Image_49A37F11_5C51_FF7D_41D6_ECD7AA55D6DE_mobile.url = skin/Image_49A37F11_5C51_FF7D_41D6_ECD7AA55D6DE_mobile_es.png
 Image_4A97A141_5C50_03DC_41BA_0FE97FEF332A.url = skin/Image_4A97A141_5C50_03DC_41BA_0FE97FEF332A_es.png
+Image_4A97A141_5C50_03DC_41BA_0FE97FEF332A_mobile.url = skin/Image_4A97A141_5C50_03DC_41BA_0FE97FEF332A_mobile_es.png
+Image_F89CF4C5_EFBB_CA17_41C1_75ECF9A0A654.url = skin/Image_F89CF4C5_EFBB_CA17_41C1_75ECF9A0A654_es.jpg
+Image_F89CF4C5_EFBB_CA17_41C1_75ECF9A0A654_mobile.url = skin/Image_F89CF4C5_EFBB_CA17_41C1_75ECF9A0A654_mobile_es.jpg
+Image_FC77A063_EF5B_CA12_41EA_93304581DCC7.url = skin/Image_FC77A063_EF5B_CA12_41EA_93304581DCC7_es.png
+Image_FC77A063_EF5B_CA12_41EA_93304581DCC7_mobile.url = skin/Image_FC77A063_EF5B_CA12_41EA_93304581DCC7_mobile_es.png
+Image_FDD2A5F8_EF49_D5FE_41DB_512BC0E4ECF4.url = skin/Image_FDD2A5F8_EF49_D5FE_41DB_512BC0E4ECF4_es.png
+Image_FDD2A5F8_EF49_D5FE_41DB_512BC0E4ECF4_mobile.url = skin/Image_FDD2A5F8_EF49_D5FE_41DB_512BC0E4ECF4_mobile_es.png
+Image_FEC23A5C_EF5A_5E36_41ED_C390F1CB4991.url = skin/Image_FEC23A5C_EF5A_5E36_41ED_C390F1CB4991_es.png
+Image_FEC23A5C_EF5A_5E36_41ED_C390F1CB4991_mobile.url = skin/Image_FEC23A5C_EF5A_5E36_41ED_C390F1CB4991_mobile_es.png
+Image_FEC77163_EF5A_CA13_41E9_07BC3E693E87.url = skin/Image_FEC77163_EF5A_CA13_41E9_07BC3E693E87_es.png
+Image_FEC77163_EF5A_CA13_41E9_07BC3E693E87_mobile.url = skin/Image_FEC77163_EF5A_CA13_41E9_07BC3E693E87_mobile_es.png
+Image_FF93728B_EF4B_CE12_41C6_422FF133FFED.url = skin/Image_FF93728B_EF4B_CE12_41C6_422FF133FFED_es.png
+Image_FF93728B_EF4B_CE12_41C6_422FF133FFED_mobile.url = skin/Image_FF93728B_EF4B_CE12_41C6_422FF133FFED_mobile_es.png
 
 ### Pestaña
+TabPanelPage_7CF3710C_5C50_3A6F_41CF_F63DE61A2291_mobile.label = App
+TabPanelPage_7CF2910C_5C50_3A6F_41BE_751AE79A9513_mobile.label = App
+TabPanelPage_7C77F108_5C50_3A68_417B_0998233F3706_mobile.label = App
 TabPanelPage_4AF01A30_5C50_01BB_41D3_B6B6CE52193C.label = App
-TabPanelPage_7CF2910C_5C50_3A6F_41BE_751AE79A9513.label = App
-TabPanelPage_7C77F108_5C50_3A68_417B_0998233F3706.label = App
 TabPanelPage_7CF3710C_5C50_3A6F_41CF_F63DE61A2291.label = App
+TabPanelPage_7CF2210B_5C50_3A69_41BF_A3FD424BF30D_mobile.label = App
+TabPanelPage_7C77F108_5C50_3A68_417B_0998233F3706.label = App
 TabPanelPage_7CF2210B_5C50_3A69_41BF_A3FD424BF30D.label = App
+TabPanelPage_4AF01A30_5C50_01BB_41D3_B6B6CE52193C_mobile.label = App
+TabPanelPage_7CF2910C_5C50_3A6F_41BE_751AE79A9513.label = App
 TabPanelPage_2D062053_3EC4_7C3E_41CC_BE3507C5EC9D.label = Informacion General
-TabPanelPage_2D744ABE_3EC4_0C66_41C0_7E23DF53CA35.label = Informacion General
-TabPanelPage_2A56E924_3EC4_0C1A_41A2_52E636483D21.label = Informacion General
 TabPanelPage_2D787C4E_3EC4_0426_41CC_B8D19CE10266.label = Informacion General
+TabPanelPage_2D744ABE_3EC4_0C66_41C0_7E23DF53CA35.label = Informacion General
+TabPanelPage_2669865D_296E_469A_41B6_E391BC5138B8_mobile.label = Informacion General
+TabPanelPage_2D744ABE_3EC4_0C66_41C0_7E23DF53CA35_mobile.label = Informacion General
+TabPanelPage_2A56E924_3EC4_0C1A_41A2_52E636483D21_mobile.label = Informacion General
+TabPanelPage_2A56E924_3EC4_0C1A_41A2_52E636483D21.label = Informacion General
+TabPanelPage_2D787C4E_3EC4_0426_41CC_B8D19CE10266_mobile.label = Informacion General
+TabPanelPage_2D062053_3EC4_7C3E_41CC_BE3507C5EC9D_mobile.label = Informacion General
 TabPanelPage_2669865D_296E_469A_41B6_E391BC5138B8.label = Informacion General
-TabPanelPage_3D8ED01B_2A5D_C32A_41AA_593ED55EC9E6.label = Modelo 3D
-TabPanelPage_2D130057_3EC4_7C26_416E_08332D1C9FB3.label = Modelo 3D
 TabPanelPage_2D059C52_3EC4_043E_41B5_CF96B01996DC.label = Modelo 3D
 TabPanelPage_2A5CD929_3EC4_0C6A_41BF_AD89F9394F0A.label = Modelo 3D
+TabPanelPage_3D8ED01B_2A5D_C32A_41AA_593ED55EC9E6_mobile.label = Modelo 3D
+TabPanelPage_2D130057_3EC4_7C26_416E_08332D1C9FB3.label = Modelo 3D
+TabPanelPage_3D8ED01B_2A5D_C32A_41AA_593ED55EC9E6.label = Modelo 3D
+TabPanelPage_2D01FAC3_3EC4_0C1E_41C5_28F5FA2901CD_mobile.label = Modelo 3D
+TabPanelPage_2D130057_3EC4_7C26_416E_08332D1C9FB3_mobile.label = Modelo 3D
 TabPanelPage_2D01FAC3_3EC4_0C1E_41C5_28F5FA2901CD.label = Modelo 3D
+TabPanelPage_2A5CD929_3EC4_0C6A_41BF_AD89F9394F0A_mobile.label = Modelo 3D
+TabPanelPage_2D059C52_3EC4_043E_41B5_CF96B01996DC_mobile.label = Modelo 3D
+TabPanelPage_3D8E101B_2A5D_C32A_41AC_C2C6897EF057_mobile.label = Panoramas Disponibles
+TabPanelPage_2D0BE054_3EC4_7C3A_41B1_3E123F01FDED_mobile.label = Panoramas Disponibles
 TabPanelPage_2D7DCC50_3EC4_043A_41C6_050F2B24E849.label = Panoramas Disponibles
-TabPanelPage_2D7E2AC0_3EC4_0C1A_41C5_9064D0E96BE4.label = Panoramas Disponibles
-TabPanelPage_2A55F926_3EC4_0C66_41BC_986267497F7C.label = Panoramas Disponibles
+TabPanelPage_2D7E2AC0_3EC4_0C1A_41C5_9064D0E96BE4_mobile.label = Panoramas Disponibles
+TabPanelPage_2D7DCC50_3EC4_043A_41C6_050F2B24E849_mobile.label = Panoramas Disponibles
 TabPanelPage_2D0BE054_3EC4_7C3A_41B1_3E123F01FDED.label = Panoramas Disponibles
+TabPanelPage_2D7E2AC0_3EC4_0C1A_41C5_9064D0E96BE4.label = Panoramas Disponibles
+TabPanelPage_2A55F926_3EC4_0C66_41BC_986267497F7C_mobile.label = Panoramas Disponibles
+TabPanelPage_2A55F926_3EC4_0C66_41BC_986267497F7C.label = Panoramas Disponibles
 TabPanelPage_3D8E101B_2A5D_C32A_41AC_C2C6897EF057.label = Panoramas Disponibles
 
 ### Texto Multilínea
@@ -101,16 +334,32 @@ HTMLText_3D901BB7_2921_CD96_41BD_DCC08A16836A.html = <div style="text-align:left
 HTMLText_3D748928_2921_CABA_4178_D94AEBB8A60C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Desactivar Puntos de Interes</B></SPAN></SPAN></DIV></div>
 HTMLText_3B51F734_2922_C6AA_41A8_F8B46480DBA8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Giroscopio</B></SPAN></SPAN></DIV></div>
 HTMLText_3D1BF2F4_2921_BFAA_41A5_4ADF498194BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Pantalla Completa</B></SPAN></SPAN></DIV></div>
-HTMLText_425F0586_5CD0_0364_41AB_9F27ED0AE103.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_49F204E2_5C70_02DF_41B1_F21A34B0A46E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_421E2C0A_5C30_0A6B_41CA_DC4D005587D5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_4213DD61_5C50_0AD8_41D0_7C70823EB1B3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_421E2C0A_5C30_0A6B_41CA_DC4D005587D5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_425F0586_5CD0_0364_41AB_9F27ED0AE103.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_42263177_5C50_1AB8_41BF_E716BEE80AE8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_3D901BB7_2921_CD96_41BD_DCC08A16836A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Montserrat';"><B>Desactivar Audio</B></SPAN></SPAN></DIV></div>
+HTMLText_3D748928_2921_CABA_4178_D94AEBB8A60C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Montserrat';"><B>Desactivar Puntos de Interes</B></SPAN></SPAN></DIV></div>
+HTMLText_3B51F734_2922_C6AA_41A8_F8B46480DBA8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Montserrat';"><B>Giroscopio</B></SPAN></SPAN></DIV></div>
+HTMLText_3D1BF2F4_2921_BFAA_41A5_4ADF498194BF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Montserrat';"><B>Pantalla Completa</B></SPAN></SPAN></DIV></div>
+HTMLText_42263177_5C50_1AB8_41BF_E716BEE80AE8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_4213DD61_5C50_0AD8_41D0_7C70823EB1B3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_49F204E2_5C70_02DF_41B1_F21A34B0A46E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_425F0586_5CD0_0364_41AB_9F27ED0AE103_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_421E2C0A_5C30_0A6B_41CA_DC4D005587D5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:Tahoma, Geneva, sans-serif;">Continua la experiencia en nuestra app de realidad aumentada</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_3FC73D62_2A35_5D1B_41BA_3572FA01D52C.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:justify;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37px;font-family:'Montserrat';"><B>La India Catalina</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Montserrat';"><B>Un Símbolo de Identidad</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">La India Catalina fue una mujer indígena de la tribu Calamari que vivió en lo que hoy es Colombia durante el siglo XVI. Fue secuestrada por los españoles en 1509 y posteriormente bautizada con el nombre de Catalina. Desempeñó un papel importante como intérprete y enlace entre los conquistadores y los pueblos nativos. Su historia simboliza la compleja interacción entre los indígenas y los colonizadores en la época de la conquista.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">El monumento a la India Catalina en Cartagena, Colombia, es un símbolo que rinde homenaje a la herencia indígena y su papel en la historia de la ciudad. Representa la conexión entre culturas y la resistencia indígena ante la conquista. Además, destaca la importancia de preservar y celebrar la diversidad cultural de Colombia.</SPAN></SPAN></DIV></div>
 HTMLText_2D0AE053_3EC4_7C3E_41B4_D313E47B9AFF.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:justify;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37px;font-family:'Montserrat';"><B>La Torre del Reloj</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Montserrat';"><B>Icono de Identidad y Bienvenida</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">La Torre del Reloj es un monumento histórico en Cartagena de Indias, Colombia, construido en el siglo XVIII como parte de las murallas de la ciudad. Esta imponente estructura cumplió un papel esencial como punto de entrada a la ciudad amurallada y un símbolo de la riqueza colonial.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">La Torre del Reloj es un ícono que refleja la herencia colonial y la belleza arquitectónica de Cartagena. Además, actúa como un símbolo de bienvenida para los visitantes, marcando la entrada a la ciudad antigua y recordando la importancia histórica de Cartagena como puerto y enclave colonial en la región del Caribe.</SPAN></SPAN></DIV></div>
+HTMLText_3FC73D62_2A35_5D1B_41BA_3572FA01D52C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:justify;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18.5px;font-family:'Montserrat';"><B>La India Catalina</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Un Símbolo de Identidad</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">La India Catalina fue una mujer indígena de la tribu Calamari que vivió en lo que hoy es Colombia durante el siglo XVI. Fue secuestrada por los españoles en 1509 y posteriormente bautizada con el nombre de Catalina. Desempeñó un papel importante como intérprete y enlace entre los conquistadores y los pueblos nativos. Su historia simboliza la compleja interacción entre los indígenas y los colonizadores en la época de la conquista.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">El monumento a la India Catalina en Cartagena, Colombia, es un símbolo que rinde homenaje a la herencia indígena y su papel en la historia de la ciudad. Representa la conexión entre culturas y la resistencia indígena ante la conquista. Además, destaca la importancia de preservar y celebrar la diversidad cultural de Colombia.</SPAN></SPAN></DIV></div>
+HTMLText_2D0AE053_3EC4_7C3E_41B4_D313E47B9AFF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:justify;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18.5px;font-family:'Montserrat';"><B>La Torre del Reloj</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Icono de Identidad y Bienvenida</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">La Torre del Reloj es un monumento histórico en Cartagena de Indias, Colombia, construido en el siglo XVIII como parte de las murallas de la ciudad. Esta imponente estructura cumplió un papel esencial como punto de entrada a la ciudad amurallada y un símbolo de la riqueza colonial.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">La Torre del Reloj es un ícono que refleja la herencia colonial y la belleza arquitectónica de Cartagena. Además, actúa como un símbolo de bienvenida para los visitantes, marcando la entrada a la ciudad antigua y recordando la importancia histórica de Cartagena como puerto y enclave colonial en la región del Caribe.</SPAN></SPAN></DIV></div>
 HTMLText_2A552925_3EC4_0C1A_41C0_E769246FD283.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37px;font-family:'Montserrat';"><B>El Castillo San Felipe</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Montserrat';"><B>Símbolo de Defensa y Patrimonio</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">El Castillo San Felipe de Barajas, conocido como el Castillo San Felipe, es una fortaleza histórica ubicada en Cartagena, Colombia. Fue construido en el siglo XVII por los españoles para defender la ciudad de los ataques de piratas y enemigos. Su impresionante arquitectura y ubicación estratégica en una colina lo convierten en un hito emblemático.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">El Castillo San Felipe representa la importancia de la defensa de la ciudad en la época colonial. Es un símbolo de la resistencia y la herencia histórica de Cartagena. Además, el castillo es un testimonio arquitectónico de la influencia española en la región y un lugar que permite a los visitantes conectarse con la historia y el patrimonio de la ciudad.</SPAN></SPAN></DIV></div>
 HTMLText_2D7C6C4F_3EC4_0426_41A6_1D9F3B12E773.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37px;font-family:'Montserrat';"><B>El Muelle de los Pegasos</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Montserrat';"><B>Un Vínculo con el Pasado</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">El Muelle de los Pegasos es una estructura ubicada en Cartagena de Indias, Colombia, que se remonta al período colonial. Este muelle desempeñó un papel esencial en la importación y exportación de mercancías durante la época de la colonización española en América. Su historia refleja la importancia de los puertos marítimos en el comercio colonial y la conexión de Cartagena con el mundo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">El Muelle de los Pegasos es un símbolo de la historia comercial y marítima de Cartagena. Su nombre proviene de las estatuas de pegasos que decoran la estructura. Este monumento representa la importancia del comercio marítimo en la historia de la ciudad y su papel en la construcción de la identidad cultural de Cartagena como un puerto histórico y vibrante en la región del Caribe.</SPAN></SPAN></DIV></div>
 HTMLText_2D78BABF_3EC4_0C66_41CC_315ED686B79F.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37px;font-family:'Montserrat';"><B>Los Zapatos Viejos</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Montserrat';"><B>Homenaje a la Identidad Caribeña</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">Los Zapatos Viejos de Cartagena son una escultura pública que representa un par de zapatos gastados, ubicada en la ciudad de Cartagena, Colombia. Fueron creados por el artista Héctor Lombana en la década de 1990 y se han convertido en un símbolo icónico de la ciudad.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat';">Los Zapatos Viejos son un homenaje a la cultura y la música caribeña, específicamente al vallenato, un género musical tradicional de la región. La escultura es un recordatorio de la rica herencia cultural de Cartagena y su conexión con la música y la danza. Además, los Zapatos Viejos simbolizan la alegría y el espíritu festivo de la ciudad, alentando a la gente a disfrutar de la vida y la música.</SPAN></SPAN></DIV></div>
+HTMLText_2A552925_3EC4_0C1A_41C0_E769246FD283_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18.5px;font-family:'Montserrat';"><B>El Castillo San Felipe</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Símbolo de Defensa y Patrimonio</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">El Castillo San Felipe de Barajas, conocido como el Castillo San Felipe, es una fortaleza histórica ubicada en Cartagena, Colombia. Fue construido en el siglo XVII por los españoles para defender la ciudad de los ataques de piratas y enemigos. Su impresionante arquitectura y ubicación estratégica en una colina lo convierten en un hito emblemático.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">El Castillo San Felipe representa la importancia de la defensa de la ciudad en la época colonial. Es un símbolo de la resistencia y la herencia histórica de Cartagena. Además, el castillo es un testimonio arquitectónico de la influencia española en la región y un lugar que permite a los visitantes conectarse con la historia y el patrimonio de la ciudad.</SPAN></SPAN></DIV></div>
+HTMLText_2D7C6C4F_3EC4_0426_41A6_1D9F3B12E773_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18.5px;font-family:'Montserrat';"><B>El Muelle de los Pegasos</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Un Vínculo con el Pasado</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">El Muelle de los Pegasos es una estructura ubicada en Cartagena de Indias, Colombia, que se remonta al período colonial. Este muelle desempeñó un papel esencial en la importación y exportación de mercancías durante la época de la colonización española en América. Su historia refleja la importancia de los puertos marítimos en el comercio colonial y la conexión de Cartagena con el mundo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:9px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">El Muelle de los Pegasos es un símbolo de la historia comercial y marítima de Cartagena. Su nombre proviene de las estatuas de pegasos que decoran la estructura. Este monumento representa la importancia del comercio marítimo en la historia de la ciudad y su papel en la construcción de la identidad cultural de Cartagena como un puerto histórico y vibrante en la región del Caribe.</SPAN></SPAN></DIV></div>
+HTMLText_2D78BABF_3EC4_0C66_41CC_315ED686B79F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:150%;text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18.5px;font-family:'Montserrat';"><B>Los Zapatos Viejos</B></SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Montserrat';"><B>Homenaje a la Identidad Caribeña</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">Los Zapatos Viejos de Cartagena son una escultura pública que representa un par de zapatos gastados, ubicada en la ciudad de Cartagena, Colombia. Fueron creados por el artista Héctor Lombana en la década de 1990 y se han convertido en un símbolo icónico de la ciudad.</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Montserrat';">Los Zapatos Viejos son un homenaje a la cultura y la música caribeña, específicamente al vallenato, un género musical tradicional de la región. La escultura es un recordatorio de la rica herencia cultural de Cartagena y su conexión con la música y la danza. Además, los Zapatos Viejos simbolizan la alegría y el espíritu festivo de la ciudad, alentando a la gente a disfrutar de la vida y la música.</SPAN></SPAN></DIV></div>
+HTMLText_F89D44C6_EFBB_CA15_41CD_87966DDD8697.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_F89D44C6_EFBB_CA15_41CD_87966DDD8697_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 
 ## Tour
 
